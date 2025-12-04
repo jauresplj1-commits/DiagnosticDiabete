@@ -3,3 +3,10 @@ numpy==2.3.2
 pandas==2.3.2
 seaborn==0.13.2
 streamlit==1.48.1
+pickle
+plotly.graph_objects
+plotly.express
+plotly.subplots
+json
+datetime
+time
