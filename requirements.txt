@@ -3,11 +3,11 @@ numpy
 pandas
 seaborn
 streamlit
-pickle
 plotly.graph_objects
 plotly.express
 plotly.subplots
 json
 datetime
 time
+
 
