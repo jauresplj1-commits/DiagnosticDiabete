@@ -3,11 +3,3 @@ numpy
 pandas
 seaborn
 streamlit
-plotly.graph_objects
-plotly.express
-plotly.subplots
-json
-datetime
-time
-
-
