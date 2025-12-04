@@ -3,4 +3,5 @@ numpy
 pandas
 seaborn
 streamlit
-plotly.graph_objects
+plotly
+
